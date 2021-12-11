@@ -1,0 +1,12 @@
+.head{
+
+  margin: 0 auto;
+  margin-top: 70px;
+  max-width: 500px;
+  padding: 10px 10px;
+  background: #1a335c;
+  color:white;
+  box-sizing: border-box;
+  border-radius: 20px;
+  font-weight: bold;
+}

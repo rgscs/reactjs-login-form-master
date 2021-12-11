@@ -1,0 +1,27 @@
+.Login{
+
+    margin: 0 auto;
+    margin-top: 30px;
+    max-width: 500px;
+    padding: 10px 90px 10px ;
+    background: #1a335c;
+    color:white;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.head{
+    text-align: center;
+    color:white;
+}
+.button{
+    box-sizing: border-box ;
+    border-radius: 70px;
+}
+.heading{
+    text-align: center;
+   font-size: 30px;
+}
+.email{
+    box-sizing: border-box;
+    border-radius: 30px;
+}
